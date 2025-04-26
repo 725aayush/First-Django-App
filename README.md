@@ -21,18 +21,14 @@ A beginner-friendly Django starter project to help new learners build their firs
 ### 1. Install Django
 ```bash
 pip install django
-
-### 2. Create a New Django Project
-```bash
+2. Create a New Django Project
+bash
 django-admin startproject myproject
 cd myproject
-
-### 3. Create Your First App
-```bash
+3. Create Your First App
+bash
 python manage.py startapp myapp
-
-### 4. Run Development Server
-```bash
+4. Run Development Server
+bash
 python manage.py runserver
-
 Visit: http://127.0.0.1:8000
